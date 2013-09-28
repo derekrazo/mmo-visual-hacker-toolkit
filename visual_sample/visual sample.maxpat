@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 8.0, 50.0, 946.0, 680.0 ],
+		"rect" : [ 68.0, 44.0, 1089.0, 727.0 ],
 		"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
@@ -41,10 +41,21 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 0,
+					"parameter_enable" : 1,
 					"patching_rect" : [ 198.950012, 709.5, 20.0, 20.0 ],
 					"presentation" : 0,
-					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ]
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_longname" : "toggle[2]",
+							"parameter_shortname" : "toggle[2]",
+							"parameter_type" : 3,
+							"parameter_invisible" : 1
+						}
+
+					}
+,
+					"varname" : "toggle[2]"
 				}
 
 			}
@@ -121,14 +132,25 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"outputonclick" : 0,
-					"parameter_enable" : 0,
+					"parameter_enable" : 1,
 					"patching_rect" : [ 192.700012, 254.80545, 50.0, 19.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_longname" : "flonum[3]",
+							"parameter_shortname" : "flonum[3]",
+							"parameter_type" : 3,
+							"parameter_invisible" : 1
+						}
+
+					}
+,
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"triangle" : 1,
 					"tricolor" : [ 0.75, 0.75, 0.75, 1.0 ],
-					"triscale" : 1.0
+					"triscale" : 1.0,
+					"varname" : "flonum[3]"
 				}
 
 			}
@@ -375,14 +397,25 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"outputonclick" : 0,
-					"parameter_enable" : 0,
+					"parameter_enable" : 1,
 					"patching_rect" : [ 199.090912, 222.272736, 50.0, 19.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_longname" : "flonum[2]",
+							"parameter_shortname" : "flonum[2]",
+							"parameter_type" : 3,
+							"parameter_invisible" : 1
+						}
+
+					}
+,
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"triangle" : 1,
 					"tricolor" : [ 0.75, 0.75, 0.75, 1.0 ],
-					"triscale" : 1.0
+					"triscale" : 1.0,
+					"varname" : "flonum[2]"
 				}
 
 			}
@@ -551,7 +584,7 @@
 					"patching_rect" : [ 271.818176, 323.636353, 50.0, 17.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"text" : "3.",
+					"text" : "0.",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 0
 				}
@@ -605,14 +638,25 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"outputonclick" : 0,
-					"parameter_enable" : 0,
+					"parameter_enable" : 1,
 					"patching_rect" : [ 297.5, 222.272736, 50.0, 19.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_longname" : "flonum[1]",
+							"parameter_shortname" : "flonum[1]",
+							"parameter_type" : 3,
+							"parameter_invisible" : 1
+						}
+
+					}
+,
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"triangle" : 1,
 					"tricolor" : [ 0.75, 0.75, 0.75, 1.0 ],
-					"triscale" : 1.0
+					"triscale" : 1.0,
+					"varname" : "flonum[1]"
 				}
 
 			}
@@ -968,10 +1012,21 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 0,
+					"parameter_enable" : 1,
 					"patching_rect" : [ 14.54546, 387.545441, 43.5, 43.5 ],
 					"presentation" : 0,
-					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ]
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_longname" : "toggle[1]",
+							"parameter_shortname" : "toggle[1]",
+							"parameter_type" : 3,
+							"parameter_invisible" : 1
+						}
+
+					}
+,
+					"varname" : "toggle[1]"
 				}
 
 			}
@@ -1043,7 +1098,7 @@
 					"patching_rect" : [ 853.650024, 521.781555, 214.0, 17.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"text" : "0. 7386.961914 2462.320557",
+					"text" : "613.492065 2380.861816 0.",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 0
 				}
@@ -1087,10 +1142,21 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
-					"parameter_enable" : 0,
+					"parameter_enable" : 1,
 					"patching_rect" : [ 10.04546, 563.985474, 20.0, 20.0 ],
 					"presentation" : 0,
-					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ]
+					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_longname" : "toggle",
+							"parameter_shortname" : "toggle",
+							"parameter_type" : 3,
+							"parameter_invisible" : 1
+						}
+
+					}
+,
+					"varname" : "toggle"
 				}
 
 			}
@@ -1190,14 +1256,25 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
 					"outputonclick" : 0,
-					"parameter_enable" : 0,
+					"parameter_enable" : 1,
 					"patching_rect" : [ 14.54546, 254.80545, 50.0, 19.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_longname" : "flonum",
+							"parameter_shortname" : "flonum",
+							"parameter_type" : 3,
+							"parameter_invisible" : 1
+						}
+
+					}
+,
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"triangle" : 1,
 					"tricolor" : [ 0.75, 0.75, 0.75, 1.0 ],
-					"triscale" : 1.0
+					"triscale" : 1.0,
+					"varname" : "flonum"
 				}
 
 			}
@@ -1530,7 +1607,7 @@
 					"patching_rect" : [ 819.25, 281.545441, 75.0, 17.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"text" : "7386.961914",
+					"text" : "1767.369751",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 0
 				}
@@ -1579,7 +1656,7 @@
 					"patching_rect" : [ 581.5, 281.545441, 69.0, 17.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"text" : "0.",
+					"text" : "613.492065",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 0
 				}
@@ -1604,7 +1681,7 @@
 					"patching_rect" : [ 660.700012, 281.545441, 75.0, 17.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"text" : "7386.961914",
+					"text" : "2380.861816",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 0
 				}
@@ -1701,14 +1778,25 @@
 					"numoutlets" : 2,
 					"orientation" : 0,
 					"outlettype" : [ "signal", "int" ],
-					"parameter_enable" : 0,
+					"parameter_enable" : 1,
 					"patching_rect" : [ 427.600006, 697.545471, 22.0, 140.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"relative" : 0,
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_longname" : "gain~[1]",
+							"parameter_shortname" : "gain~[1]",
+							"parameter_type" : 3,
+							"parameter_invisible" : 1
+						}
+
+					}
+,
 					"scale" : 7.94321,
 					"size" : 158,
-					"stripecolor" : [ 0.86, 0.9, 0.68, 0.7 ]
+					"stripecolor" : [ 0.86, 0.9, 0.68, 0.7 ],
+					"varname" : "gain~[1]"
 				}
 
 			}
@@ -1728,14 +1816,25 @@
 					"numoutlets" : 2,
 					"orientation" : 0,
 					"outlettype" : [ "signal", "int" ],
-					"parameter_enable" : 0,
+					"parameter_enable" : 1,
 					"patching_rect" : [ 387.100006, 697.545471, 22.0, 140.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"relative" : 0,
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_longname" : "gain~",
+							"parameter_shortname" : "gain~",
+							"parameter_type" : 3,
+							"parameter_invisible" : 1
+						}
+
+					}
+,
 					"scale" : 7.94321,
 					"size" : 158,
-					"stripecolor" : [ 0.86, 0.9, 0.68, 0.7 ]
+					"stripecolor" : [ 0.86, 0.9, 0.68, 0.7 ],
+					"varname" : "gain~"
 				}
 
 			}
@@ -2780,13 +2879,21 @@
 
 			}
  ],
+		"parameters" : 		{
+			"obj-106" : [ "flonum[3]", "flonum[3]", 0 ],
+			"obj-5" : [ "toggle[1]", "toggle[1]", 0 ],
+			"obj-78" : [ "toggle", "toggle", 0 ],
+			"obj-70" : [ "flonum", "flonum", 0 ],
+			"obj-14" : [ "flonum[1]", "flonum[1]", 0 ],
+			"obj-17" : [ "gain~[1]", "gain~[1]", 0 ],
+			"obj-91" : [ "flonum[2]", "flonum[2]", 0 ],
+			"obj-13" : [ "toggle[2]", "toggle[2]", 0 ],
+			"obj-16" : [ "gain~", "gain~", 0 ]
+		}
+,
 		"dependency_cache" : [ 			{
-				"name" : "attrui.mxe",
-				"type" : "iLaF"
-			}
-, 			{
-				"name" : "OpenSoundControl.mxe",
-				"type" : "iLaF"
+				"name" : "OpenSoundControl.mxo",
+				"type" : "iLaX"
 			}
  ]
 	}
