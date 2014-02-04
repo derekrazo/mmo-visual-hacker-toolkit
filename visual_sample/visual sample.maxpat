@@ -613,10 +613,10 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "bang" ],
-					"patching_rect" : [ 981.0, 245.545456, 160.0, 19.0 ],
+					"patching_rect" : [ 981.0, 245.545456, 163.0, 19.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"text" : "buffer~ test-samp drumloop.aif",
+					"text" : "buffer~ test-samp drumLoop.aif",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 0
 				}
@@ -714,7 +714,7 @@
 					"patching_rect" : [ 328.818176, 322.636353, 50.0, 17.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"text" : "0.",
+					"text" : "1.",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 0
 				}
@@ -1206,7 +1206,7 @@
 					"patching_rect" : [ 910.650024, 520.781555, 214.0, 17.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"text" : "0. 0. 0.",
+					"text" : "266.757385 495.69162 228.93425",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 0
 				}
@@ -1693,7 +1693,7 @@
 					"patching_rect" : [ 876.25, 280.545441, 75.0, 17.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"text" : "7386.961914",
+					"text" : "228.93425",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 0
 				}
@@ -1742,7 +1742,7 @@
 					"patching_rect" : [ 638.5, 280.545441, 69.0, 17.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"text" : "0.",
+					"text" : "266.757385",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 0
 				}
@@ -1767,7 +1767,7 @@
 					"patching_rect" : [ 717.700012, 280.545441, 75.0, 17.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"text" : "7386.961914",
+					"text" : "495.69162",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 0
 				}
